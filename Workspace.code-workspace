@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Himanshu\\Desktop\\TEST SFDX PERSONel\\Test SFDX"
+		},
+		{
+			"path": "C:\\Users\\Himanshu\\Desktop\\TEST SFDX PERSONel\\Simple HTML Demo"
+		}
+	],
+	"settings": {
+		"salesforcedx-vscode-core.show-cli-success-msg": false,
+		"eslint.nodePath": "c:\\Users\\Himanshu\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-45.14.0\\node_modules"
+	}
+}
